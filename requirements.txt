@@ -1,0 +1,3 @@
+# Editable install with no version control (ArabicTextCleaner==0.1.0)
+-e d:\upshifter company\arabictextcleaner
+setuptools==75.8.0

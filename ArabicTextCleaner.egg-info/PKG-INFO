@@ -1,0 +1,14 @@
+Metadata-Version: 2.2
+Name: ArabicTextCleaner
+Version: 0.1.0
+Summary: A Python library for cleaning Arabic text for NLP applications.
+Home-page: https://github.com/yourusername/arabic_text_cleaner
+Author: Mody Medhat
+Author-email: moody.medhat99@gmail.com
+Classifier: Programming Language :: Python :: 3.13.1
+Classifier: License :: OSI Approved :: MIT License
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: home-page
+Dynamic: summary
